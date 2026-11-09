@@ -18,7 +18,7 @@ To regenerate responses with your own keys instead, add them under Colab **Secre
 | `GEMINI_API_KEY` | Free-tier key from Google AI Studio; used by both generator and judge |
 | `GROQ_API_KEY` (optional) | Only to re-run the cross-family judge (Cell 25b); cached Groq audits replay without it |
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-github-user>/<your-repo>/blob/main/IMF_Mongolia_LLM_Pipeline.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sri-lekha-19/IMF-Mongolia-Case-study-/blob/main/Code.ipynb?authuser=2)
 
 ## Repository layout
 
