@@ -1,0 +1,12 @@
+pymupdf
+pandas
+tabulate
+camelot-py
+transformers
+sentence-transformers
+faiss-cpu
+seaborn
+matplotlib
+google-genai
+pydantic
+tenacity
